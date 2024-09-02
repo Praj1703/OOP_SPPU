@@ -1,0 +1,51 @@
+student@student:~$ ./a.out
+
+-----------------Selction Sort-----------------
+----------------Main Menu ----------------------
+1. Integer Values
+2. Float Values
+3. Exit
+
+ Enter Your Choice 1
+
+----------------------------------------------
+
+ Enter the Number of values to be sorted:  4
+Enter the Integer Values: 
+99
+1
+56
+21
+
+ --------------------------------------
+The Sorted Numbers are: 1 21 56 99 
+-----------------Selction Sort-----------------
+----------------Main Menu ----------------------
+1. Integer Values
+2. Float Values
+3. Exit
+
+ Enter Your Choice 2
+
+----------------------------------------------
+
+ Enter the Number of values to be sorted:  4
+Enter the Integer Values: 
+99.45
+3.65
+25.7
+98.96
+
+ --------------------------------------
+The Sorted Numbers are: 3.65 25.7 98.96 99.45 
+-----------------Selction Sort-----------------
+----------------Main Menu ----------------------
+1. Integer Values
+2. Float Values
+3. Exit
+
+ Enter Your Choice 3
+
+----------------------------------------------
+student@student:~$ 
+
